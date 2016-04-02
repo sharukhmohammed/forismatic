@@ -6,6 +6,8 @@ initiate a new Quote object via constructor
 
 quote object contains quoteText,quoteAuthor,senderName,senderLink,quoteLink
 >quote.quoteText //Gives quoteText
+
+
 >quote.rawJsonString //Gives JSON String if required
 
 #####you can play with it like a string
