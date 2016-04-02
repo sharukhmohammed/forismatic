@@ -1,5 +1,8 @@
 # Java Library for Forismatic
 
+####Installation
+Download the 'sharukh.forismatic.jar' and import in your project as JAR dependecy or add it in CLASSPATH
+
 ####Usage
 initiate a new Quote object via constructor
 > Quote quote = new QuoteBuilder().getQuote();
